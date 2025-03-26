@@ -1,2 +1,5 @@
 # Petit-Projet
-Ensemble de petits projets
+Ce répertoire comprend un ensemble de projets codé dans différents langages.
+
+**Calculatrice**
+Pour l'utiliser, lancer le fichier "Calculatrice.exe".
